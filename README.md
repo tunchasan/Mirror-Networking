@@ -5,4 +5,4 @@
 🌟 **Course Link :** https://www.udemy.com/course/unity-multiplayer/
 #### 📌 Under Development!
 
-<img src="https://media0.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif?cid=790b7611659813e0d1b4f765421671bb4492f0ec8f8dd87f&rid=giphy.gif&ct=g" width="800">
+<img src="https://media0.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif?cid=790b7611659813e0d1b4f765421671bb4492f0ec8f8dd87f&rid=giphy.gif&ct=g" width="850">
